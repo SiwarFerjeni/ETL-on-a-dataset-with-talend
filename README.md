@@ -1,2 +1,5 @@
-# ETL-on-a-dataset-with-talend-PowerBi-MySQl
-In this repository you can find ETl basics applied with Talend on a dataset from Kaggle. After the ETL phase the dataset has been saved on a MySQL database using phpMyAdmin and a dashbord was created with PowerBi. 
+#ETL on Video Games Sales Dataset using Talend, Power BI, and MySQL
+Welcome to the ETL (Extract, Transform, Load) project repository! This project focuses on using Talend for ETL processes, Power BI for data visualization, and MySQL as the database to analyze and gain insights from a video games sales dataset.
+
+#Dataset
+The dataset used in this project contains information about video games sales, including details such as game title, platform, genre, publisher, and sales figures.
